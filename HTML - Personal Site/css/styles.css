@@ -10,6 +10,6 @@ hr {
   width: 8%;
 }
 
-h1, h3 {
+h1, h3, p, li, table {
   color: #f5f5f5;
 }
