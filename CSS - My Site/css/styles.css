@@ -9,22 +9,18 @@ h1 {
   margin: 0 auto;
 }
 
-.top {
+.top-container {
   background-color: #ebfffa;
   position: relative;
   padding-top: 100px;
 }
 
-.mid {
-  background-color: red;
-  width: 200px;
-  height: 200px;
+.mid-container {
+
 }
 
-.bottom {
-  background-color: blue;
-  width: 200px;
-  height: 200px;
+.bottom-container {
+
 }
 
 .top-cloud {
@@ -37,4 +33,13 @@ h1 {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.profile-pic {
+  padding-top: 15px;
+  width: 180px;
+}
+
+.skills-img {
+  width: 200px;
 }
