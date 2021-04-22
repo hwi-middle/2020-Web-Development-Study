@@ -110,3 +110,25 @@ h1 {
   width: 15%;
   margin: 20px 20px 50px;
 }
+
+/* Pricing */
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.card-header-text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.pricing-header {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
