@@ -46,9 +46,17 @@ h1 {
 .title-image {
   width: 60%;
   transform: rotate(25deg);
+  position: absolute;
 }
 
 /* Features */
+#features {
+  padding: 7% 15%;
+  background-color: #ffffff;
+  position: relative;
+  z-index: 1;
+}
+
 .features-div {
   text-align: center;
   padding: 5%;
@@ -112,7 +120,7 @@ h1 {
 }
 
 /* Pricing */
-#pricing{
+#pricing {
   padding: 100px;
   text-align: center;
 }
